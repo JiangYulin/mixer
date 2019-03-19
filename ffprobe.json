@@ -1,0 +1,50 @@
+{
+    "streams": [
+        {
+            "index": 0,
+            "codec_name": "aac",
+            "codec_long_name": "AAC (Advanced Audio Coding)",
+            "profile": "LC",
+            "codec_type": "audio",
+            "codec_time_base": "1/48000",
+            "codec_tag_string": "[0][0][0][0]",
+            "codec_tag": "0x0000",
+            "sample_fmt": "fltp",
+            "sample_rate": "48000",
+            "channels": 2,
+            "channel_layout": "stereo",
+            "bits_per_sample": 0,
+            "r_frame_rate": "0/0",
+            "avg_frame_rate": "0/0",
+            "time_base": "1/28224000",
+            "duration_ts": 309188659,
+            "duration": "10.954814",
+            "bit_rate": "136125",
+            "disposition": {
+                "default": 0,
+                "dub": 0,
+                "original": 0,
+                "comment": 0,
+                "lyrics": 0,
+                "karaoke": 0,
+                "forced": 0,
+                "hearing_impaired": 0,
+                "visual_impaired": 0,
+                "clean_effects": 0,
+                "attached_pic": 0,
+                "timed_thumbnails": 0
+            }
+        }
+    ],
+    "format": {
+        "filename": "short.m4a",
+        "nb_streams": 1,
+        "nb_programs": 0,
+        "format_name": "aac",
+        "format_long_name": "raw ADTS AAC (Advanced Audio Coding)",
+        "duration": "10.954814",
+        "size": "186403",
+        "bit_rate": "136124",
+        "probe_score": 51
+    }
+}
