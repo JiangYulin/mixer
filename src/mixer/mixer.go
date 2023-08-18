@@ -31,7 +31,7 @@ const OSS_PREFIX = "mixer/"
 const BUCKET_NAME = "study-all-in"
 const ENDPOINT = "oss-cn-beijing.aliyuncs.com"
 const OSS_KEY = "LTAI3tmAj2frH3n2"
-const OSS_SEC = "bxsoU8C4Ju4HTSqqyICnZxkVkRiNTC"
+const OSS_SEC = "xxxxxxxxxxxxxxxxxxxxxx"
 
 const STATUS_SUCCESS = "success"
 const STATUS_FAIL = "fail"
